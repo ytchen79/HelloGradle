@@ -1,0 +1,10 @@
+*.class
+*.log
+**/.idea/**
+**/.gradle/**
+**/classes/**
+**/target/**
+**/bulild/**
+**/out/**
+**/tmp/**
+**/.DS_Store
